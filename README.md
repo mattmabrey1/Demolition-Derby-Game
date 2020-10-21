@@ -1,0 +1,2 @@
+# Demolition Derby Game
+ Independent project where each player controls a car with one randomly getting assigned a transferrable bomb with a time limit and the goal of the game is to be the last car standing. Over the course of this project I learned how to implement multiplayer using a networking framework and gained experience using Remote Procedure Calls [RPCS], Events, and Object Synchronization across multiple clients. In the future I plan on adding deform-able meshes on collisions and AI players.
